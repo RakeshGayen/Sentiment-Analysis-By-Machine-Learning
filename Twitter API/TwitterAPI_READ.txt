@@ -1,0 +1,9 @@
+This section is subject to changes made by Twitter and may not always be completely up-to-date. If you see something change on their end, please create a new issue on Github or submit a pull request to update it.
+
+In order to use the python-twitter API client, you first need to acquire a set of application tokens. These will be your consumer_key and consumer_secret, which get passed to twitter.Api() when starting your application.
+
+Create your app
+The first step in doing so is to create a Twitter App. Click the “Create New App” button and fill out the fields on the next page.
+
+Go to this Link and create your App-
+https://python-twitter.readthedocs.io/en/latest/installation.html
